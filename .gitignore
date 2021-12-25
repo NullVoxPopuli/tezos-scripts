@@ -1,0 +1,6 @@
+*.db
+*.deb
+*.gz
+*.log
+*.rolling
+*-amd64
